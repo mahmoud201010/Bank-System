@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Bank System\Validition.h(13,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Bank System\FileManager.h(57,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Bank System\FileManager.h(66,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Bank System\FileManager.h(75,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Bank System\Screens.h(56): warning C4715: 'Screens::loginAs': not all control paths return a value
+C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Bank System\ClientManger.h(104): warning C4715: 'ClientManger::clientOptions': not all control paths return a value
+C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Bank System\EmployeeManager.h(233): warning C4715: 'EmployeeManager::employeeOptions': not all control paths return a value
+C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Bank System\AdminManager.h(259): warning C4715: 'AdminManager::AdminOptions': not all control paths return a value
+  Bank System.vcxproj -> C:\Users\LENOVO\Desktop\Bank-System-main\Bank-System-main\Debug\Bank System.exe
